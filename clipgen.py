@@ -1,5 +1,4 @@
 # Import the required libraries
-# Import the required libraries
 import os
 from pytube import YouTube
 
